@@ -1,0 +1,96 @@
+Miami Dolphins:
+  pfr: mia
+  espn: mia
+New York Jets:
+  pfr: nyj
+  espn: nyj
+New England Patriots:
+  pfr: nwe
+  espn: ne
+Buffalo Bills:
+  pfr: buf
+  espn: buf
+Indianapolis Colts:
+  pfr: clt
+  espn: ind
+Jacksonville Jaguars:
+  pfr: jax
+  espn: jax
+Houston Texans:
+  pfr: htx
+  espn: hou
+Tennessee Titans:
+  pfr: oti
+  espn: ten
+Baltimore Ravens:
+  pfr: rav
+  espn: bal
+Pittsburgh Steelers:
+  pfr: pit
+  espn: pit
+Clevland Browns:
+  pfr: cle
+  espn: cle
+Cincinnati Bengals:
+  pfr: cin
+  espn: cin
+San Diego Chargers:
+  pfr: sdg
+  espn: sd
+Oakland Raiders:
+  pfr: rai
+  espn: oak
+Kansas City Chiefs:
+  pfr: kan
+  espn: kc
+Denver Broncos:
+  pfr: den
+  espn: den
+Philadelphia Eagles:
+  pfr: phi
+  espn: phi
+Washington Redskins:
+  pfr: was
+  espn: wsh
+Dallas Cowboys:
+  pfr: dal
+  espn: dal
+New York Giants:
+  pfr: nyg
+  espn: nyg
+Tampa Bay Buccaneers:
+  pfr: tam
+  espn: tb
+Carolina Panthers:
+  pfr: car
+  espn: car
+New Orleans Saints:
+  pfr: nor
+  espn: no
+Atlanta Falcons:
+  pfr: atl
+  espn: atl
+Chicago Bears:
+  pfr: chi
+  espn: chi
+Minnesota Vikings:
+  pfr: min
+  espn: min
+Green Bay Packers:
+  pfr: gnb
+  espn: gb
+Detroit Lions:
+  pfr: det
+  espn: det
+Los Angeles Rams:
+  pfr: ram
+  espn: la
+Seattle Seahawks:
+  pfr: sea
+  espn: sea
+San Francisco 49ers:
+  pfr: sfo
+  espn: sf
+Arizona Cardinals:
+  pfr: crd
+  espn: ari
