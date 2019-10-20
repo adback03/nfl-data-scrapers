@@ -2,8 +2,8 @@ require 'open-uri'
 require 'csv'
 require 'yaml'
 
-START_YEAR = 2011
-END_YEAR = 2015
+START_YEAR = 2017
+END_YEAR = 2019
 
 def require_gem gem_name
   begin
